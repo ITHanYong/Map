@@ -1,5 +1,6 @@
 # Map - 导航
 
+Info.plist文件中配置
 ```
 <key>NSLocationAlwaysAndWhenInUseUsageDescription</key> <string>是否允许此app在使用期间访问位置</string>
 
